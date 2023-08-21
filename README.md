@@ -4,7 +4,7 @@
 - 🌱 Aprendendo Python.
 - 👩 Pronomes: Ela/Dela.
 - 🦷 Também sou Cirurgiã-dentista.
-<!--
+  
 <div>
   <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=isadtr&show_icons=true&theme=tokyonight">
   <img width = "48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=isadtr&hide_progress=true&theme=tokyonight">
