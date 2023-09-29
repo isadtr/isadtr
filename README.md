@@ -1,4 +1,4 @@
-### Oi! Eu sou a Isabela Dutra 👋✨
+### Oi! Eu sou Isabela Dutra 👋✨
 ##
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
