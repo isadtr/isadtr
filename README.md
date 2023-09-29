@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Isabela Dutra 👋✨
 ##
 
-- 🌱 Aprendendo Python.
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 👩 Pronomes: Ela/Dela.
 - 🦷 Também sou Cirurgiã-dentista.
   
