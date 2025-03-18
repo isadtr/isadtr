@@ -3,7 +3,7 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🔹 Pronomes: Ela/Dela.
-- 🦷 Também sou Cirurgiã-dentista.
+<!--- 🦷 Também sou Cirurgiã-dentista.-->
   
 <div>
   <img width = "48%" src = "https://github-readme-stats.vercel.app/api?username=isadtr&show_icons=true&theme=tokyonight">
